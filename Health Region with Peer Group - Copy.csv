@@ -1,0 +1,116 @@
+Health Region ID,Name,Peer Group
+591,Interior Health,Peer Group A
+592,Fraser East Health Service Delivery Area,Peer Group B
+593,Richmond Health Service Delivery Area,Peer Group H
+594,South Vancouver Island Health Service Delivery Area,Peer Group A
+595,Northern Health,Peer Group I
+1011,Eastern Regional Health Authority,Peer Group C
+1012,Central Regional Health Authority,Peer Group E
+1013,Western Regional Health Authority,Peer Group E
+1014,Labrador?????Grenfell Regional Health Authority,Peer Group E
+1100,Prince Edward Island,Peer Group C
+1201,Zone 1 - Western,Peer Group E
+1202,Zone 2 - Northern,Peer Group C
+1203,Zone 3 - Eastern,Peer Group E
+1204,Zone 4 - Central,Peer Group A
+1301,Zone 1 (Moncton area),Peer Group C
+1302,Zone 2 (Saint John area),Peer Group A
+1303,Zone 3 (Fredericton area),Peer Group C
+1304,Zone 4 (Edmundston area),Peer Group E
+1305,Zone 5 (Campbellton area),Peer Group E
+1306,Zone 6 (Bathurst area),Peer Group E
+1307,Zone 7 (Miramichi area),Peer Group E
+2401,R??gion du Bas?????Saint?????Laurent,Peer Group C
+2402,R??gion du Saguenay?????Lac?????Saint?????Jean,Peer Group C
+2403,R??gion de la Capitale?????Nationale,Peer Group A
+2404,R??gion de la Mauricie et du Centre?????du?????Qu??bec,Peer Group C
+2405,R??gion de l'Estrie,Peer Group C
+2406,R??gion de Montr??al,Peer Group G
+2407,R??gion de l'Outaouais,Peer Group B
+2408,R??gion de l'Abitibi?????T??miscamingue,Peer Group C
+2409,R??gion de la C??te?????Nord,Peer Group C
+2410,R??gion du Nord?????du?????Qu??bec,Peer Group C
+2411,R??gion de la Gasp??sie???????les?????de?????la?????Madeleine,Peer Group E
+2412,R??gion de la Chaudi??re?????Appalaches,Peer Group D
+2413,R??gion de Laval,Peer Group A
+2414,R??gion de Lanaudi??re,Peer Group B
+2415,R??gion des Laurentides,Peer Group B
+2416,R??gion de la Mont??r??gie,Peer Group B
+2417,R??gion du Nunavik,Peer Group F
+2418,R??gion des Terres?????Cries?????de?????la?????Baie?????James,Peer Group F
+3526,District of Algoma Health Unit,Peer Group E
+3527,Brant County Health Unit,Peer Group A
+3530,Durham Regional Health Unit,Peer Group B
+3531,Elgin?????St. Thomas Health Unit,Peer Group C
+3533,Grey Bruce Health Unit,Peer Group D
+3534,Haldimand?????Norfolk Health Unit,Peer Group D
+3535,Haliburton Kawartha Pine Ridge District Health Unit,Peer Group D
+3536,Halton Regional Health Unit,Peer Group B
+3537,City of Hamilton Health Unit,Peer Group A
+3538,Hastings and Prince Edward Counties Health Unit,Peer Group C
+3539,Huron County Health Unit,Peer Group D
+3540,Chatham?????Kent Health Unit,Peer Group E
+3541,Kingston Frontenac and Lennox and Addington Health Unit,Peer Group C
+3542,Lambton Health Unit,Peer Group C
+3543,Leeds Grenville and Lanark District Health Unit,Peer Group D
+3544,Middlesex?????London Health Unit,Peer Group A
+3546,Niagara Regional Area Health Unit,Peer Group A
+3547,North Bay Parry Sound District Health Unit,Peer Group C
+3549,Northwestern Health Unit,Peer Group C
+3551,City of Ottawa Health Unit,Peer Group B
+3552,Oxford County Health Unit,Peer Group D
+3553,Peel Regional Health Unit,Peer Group H
+3554,Perth District Health Unit,Peer Group D
+3555,Peterborough County?????City Health Unit,Peer Group C
+3556,Porcupine Health Unit,Peer Group C
+3557,Renfrew County and District Health Unit,Peer Group D
+3558,Eastern Ontario Health Unit,Peer Group D
+3560,Simcoe Muskoka District Health Unit,Peer Group B
+3561,Sudbury and District Health Unit,Peer Group C
+3562,Thunder Bay District Health Unit,Peer Group C
+3563,Timiskaming Health Unit,Peer Group C
+3565,Waterloo Health Unit,Peer Group B
+3566,Wellington?????Dufferin?????Guelph Health Unit,Peer Group B
+3568,Windsor?????Essex County Health Unit,Peer Group A
+3570,York Regional Health Unit,Peer Group H
+3595,City of Toronto Health Unit,Peer Group G
+4601,Winnipeg Regional Health Authority,Peer Group A
+4602,Prairie Mountain Health,Peer Group D
+4603,Interlake?????Eastern Regional Health Authority,Peer Group D
+4604,Northern Regional Health Authority,Peer Group F
+4605,Southern Health,Peer Group B
+4763,Sun Country Regional Health Authority,Peer Group D
+4762,Five Hills Regional Health Authority,Peer Group D
+4761,Cypress Regional Health Authority,Peer Group D
+4751,Regina Qu'Appelle Regional Health Authority,Peer Group B
+4732,Sunrise Regional Health Authority,Peer Group D
+4741,Saskatoon Regional Health Authority,Peer Group B
+4732,Heartland Regional Health Authority,Peer Group D
+4723,Kelsey Trail Regional Health Authority,Peer Group C
+4722,Prince Albert Parkland Regional Health Authority,Peer Group C
+4721,Prairie North Regional Health Authority,Peer Group B
+4711,Far North West,Peer Group F
+4712, Far North Central,Peer Group F
+4713, Far North East,Peer Group F
+4714,Mamawetan/Keewatin/Athabasca,Peer Group F
+4831,South Zone,Peer Group B
+4832,Calgary Zone,Peer Group B
+4833,Central Zone,Peer Group B
+4834,Edmonton Zone,Peer Group B
+4835,North Zone,Peer Group I
+5911,East Kootenay Health Service Delivery Area,Peer Group D
+5912,Kootenay?????Boundary Health Service Delivery Area,Peer Group C
+5913,Okanagan Health Service Delivery Area,Peer Group A
+5914,Thompson/Cariboo Health Service Delivery Area,Peer Group C
+5922,Fraser North Health Service Delivery Area,Peer Group H
+5923,Fraser South Health Service Delivery Area,Peer Group H
+5932,Vancouver Health Service Delivery Area,Peer Group G
+5933,North Shore/Coast Garibaldi Health Service Delivery Area,Peer Group A
+5942,Central Vancouver Island Health Service Delivery Area,Peer Group C
+5943,North Vancouver Island Health Service Delivery Area,Peer Group C
+5951,Northwest Health Service Delivery Area,Peer Group C
+5952,Northern Interior Health Service Delivery Area,Peer Group C
+5953,Northeast Health Service Delivery Area,Peer Group I
+6001,Yukon,Peer Group I
+6101,Northwest Territories,Peer Group I
+6201,Nunavut,Peer Group F
